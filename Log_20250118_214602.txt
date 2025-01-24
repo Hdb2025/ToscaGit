@@ -773,3 +773,5 @@
 [4] 23:11:54:  ShowStatusInfo: 'Checkin all finished'
 [3] 23:11:54: Task 'Checkin all' finished
 [4] 23:11:59:  ShowStatusInfo: 'Ready'
+[3] 00:13:29: Closing Workspace!
+[3] 00:13:29: Log closed!
